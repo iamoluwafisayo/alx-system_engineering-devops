@@ -1,3 +1,2 @@
 #!/bin/bash
-school.mgc your_school_data_file
-your_school_data_file: School data file
+0 string SCHOOL School data
